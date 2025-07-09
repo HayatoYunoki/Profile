@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Profile
 
 - 名前：柚木隼人 (ゆのきはやと)
