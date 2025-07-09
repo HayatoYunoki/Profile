@@ -25,9 +25,10 @@
 1. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### Conferences
-1. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
-2. (口頭, 査読あり, 国際) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
-3. (口頭, 査読なし, 国内) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
+1. (ポスター, 査読なし, 国際) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
+2. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
+3. (口頭, 査読あり, 国際) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
+4. (口頭, 査読なし, 国内) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
 
 ## Research Interests
 - 量子情報理論
