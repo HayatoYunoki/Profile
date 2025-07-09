@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: 柚木隼人 (Hayato Yunoki)
-description: profile page of Hayato Yunoki
+description: 東京大学大学院 情報理工学系研究科 電子情報学専攻 長谷川研究室 修士課程2年
+show_downloads: false
 
 plugins:
   - jekyll-sitemap
