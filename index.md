@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 柚木隼人 (Hayato Yunoki)
+show_downloads: false
 ---
 
 ## Histories
