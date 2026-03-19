@@ -81,13 +81,13 @@ show_downloads: false
 
 ### Conference Presentations
 1. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
-2. (Oral, non-peer-reviewed, domestic) Hayato Yunoki, Yoshihiko Hasegawa, Quantum Fisher Information under Feedback Control, The 72nd JSAP Spring Meeting, Chiba, March 2025.
+2. (Oral, non-peer-reviewed, domestic) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
 3. (Oral, peer-reviewed, international) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
-4. (Oral, non-peer-reviewed, domestic) W. Iuchi\*, Y. Umeda\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Facial Image Reconstruction by Diffusion Models and Its Application to Video Compression](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), The 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, June 2023.
+4. (Oral, non-peer-reviewed, domestic) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
 
 ## Grants and Fellowships
-- FY2025: Selected for the WINGS-ISGP Independent Research Support Program B
-- 2024.04 ~ Present: Student fellow, World-leading Innovative Graduate Study Program for Intelligent Society, The University of Tokyo
+- FY2025: Selected for the WINGS-IIW Independent Research Support Program B
+- 2024.04 ~ Present: Student fellow, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 
 ## Research Interests
 - Quantum information theory
@@ -95,11 +95,11 @@ show_downloads: false
 - Quantum thermodynamics
 
 ## Teaching Experience
-- FY2025 Teaching Assistant, Introductory Programming Exercises, Department of Electrical Engineering and Information Systems / Department of Information and Communication Engineering, School of Engineering, The University of Tokyo
-- FY2024 Teaching Assistant, First Semester Experiments I, Department of Electrical Engineering and Information Systems / Department of Information and Communication Engineering, School of Engineering, The University of Tokyo
+- FY2025 Teaching Assistant, Introductory Programming Exercises, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, School of Engineering, The University of Tokyo
+- FY2024 Teaching Assistant, First Semester Experiments I, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, School of Engineering, The University of Tokyo
 
 ## Other Activities
-2025.05 ~ Present: Excellent Research Assistant, Creative Informatics Project, Graduate School of Information Science and Technology, The University of Tokyo
+2025.05 ~ Present: Excellent Research Assistant, Creative Evolution Project, Graduate School of Information Science and Technology, The University of Tokyo
 
 2024.04 ~ Present: QunaSys internship, including development of libraries for quantum computing
 

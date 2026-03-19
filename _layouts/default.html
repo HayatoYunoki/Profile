@@ -10,15 +10,17 @@
   <body>
     <section class="page-header">
       <div class="language-switcher" aria-label="Language switcher">
-        <span
+        <button
           class="language-option is-active"
+          type="button"
           data-lang-option="ja"
-          data-label-ja="日本語"
+          data-label-ja="Japanese"
           data-label-en="Japanese"
           aria-current="true"
+          disabled
         >
           日本語
-        </span>
+        </button>
         <button
           class="language-option"
           type="button"
@@ -61,9 +63,7 @@
             option.textContent = option.dataset[labelKey];
 
             const isActive = optionLang === lang;
-            if (option.tagName === "BUTTON") {
-              option.disabled = isActive;
-            }
+            option.disabled = isActive;
             option.classList.toggle("is-active", isActive);
             option.setAttribute("aria-current", isActive ? "true" : "false");
           });
@@ -102,7 +102,6 @@
         setLanguage(detectInitialLanguage());
 
         options.forEach((option) => {
-          if (option.tagName !== "BUTTON") return;
           option.addEventListener("click", () => {
             setLanguage(option.dataset.langOption);
           });

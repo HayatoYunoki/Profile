@@ -1,0 +1,15 @@
+#!/bin/zsh
+
+set -euo pipefail
+
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+
+port="${1:-4000}"
+
+while lsof -iTCP:"$port" -sTCP:LISTEN >/dev/null 2>&1; do
+  port=$((port + 1))
+done
+
+echo "Starting Jekyll at http://127.0.0.1:${port}/Profile/"
+
+bundle exec jekyll serve --host 127.0.0.1 --port "$port" --baseurl "/Profile"
