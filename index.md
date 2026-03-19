@@ -4,7 +4,7 @@ title: 柚木隼人 (Hayato Yunoki)
 show_downloads: false
 ---
 
-<div class="profile-section" data-lang-content="ja">
+<div class="profile-section" data-lang-content="ja" markdown="1">
 
 ## 経歴
 <!-- 2026.04 ~ 現在 : 博士課程, 東京大学大学院 情報理工学系研究科 電子情報学専攻 長谷川研究室 -->
@@ -60,7 +60,7 @@ show_downloads: false
 
 </div>
 
-<div class="profile-section" data-lang-content="en" hidden>
+<div class="profile-section" data-lang-content="en" hidden markdown="1">
 
 ## Education
 <!-- From April 2026: Doctoral program, Hasegawa Lab, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo -->

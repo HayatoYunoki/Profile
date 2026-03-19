@@ -9,12 +9,22 @@
   </head>
   <body>
     <section class="page-header">
-      <div class="language-switcher">
+      <div class="language-switcher" aria-label="Language switcher">
+        <span
+          class="language-option is-active"
+          data-lang-option="ja"
+          data-label-ja="日本語"
+          data-label-en="Japanese"
+          aria-current="true"
+        >
+          日本語
+        </span>
         <button
-          class="language-toggle"
+          class="language-option"
           type="button"
-          data-lang-toggle
-          aria-live="polite"
+          data-lang-option="en"
+          data-label-ja="English"
+          data-label-en="English"
         >
           English
         </button>
@@ -38,19 +48,25 @@
       (() => {
         const supported = new Set(["ja", "en"]);
         const root = document.documentElement;
-        const toggle = document.querySelector("[data-lang-toggle]");
+        const options = document.querySelectorAll("[data-lang-option]");
         const contentBlocks = document.querySelectorAll("[data-lang-content]");
         const storageKey = "profile-language";
 
         const normalize = (value) => supported.has(value) ? value : "ja";
 
-        const updateButton = (lang) => {
-          if (!toggle) return;
-          toggle.textContent = lang === "ja" ? "English" : "日本語";
-          toggle.setAttribute(
-            "aria-label",
-            lang === "ja" ? "Switch to English" : "日本語に切り替え"
-          );
+        const updateSwitcher = (lang) => {
+          options.forEach((option) => {
+            const optionLang = option.dataset.langOption;
+            const labelKey = lang === "ja" ? "labelJa" : "labelEn";
+            option.textContent = option.dataset[labelKey];
+
+            const isActive = optionLang === lang;
+            if (option.tagName === "BUTTON") {
+              option.disabled = isActive;
+            }
+            option.classList.toggle("is-active", isActive);
+            option.setAttribute("aria-current", isActive ? "true" : "false");
+          });
         };
 
         const applyLanguage = (lang) => {
@@ -60,7 +76,7 @@
           contentBlocks.forEach((block) => {
             block.hidden = block.dataset.langContent !== nextLang;
           });
-          updateButton(nextLang);
+          updateSwitcher(nextLang);
         };
 
         const detectInitialLanguage = () => {
@@ -85,8 +101,11 @@
         applyLanguage("ja");
         setLanguage(detectInitialLanguage());
 
-        toggle?.addEventListener("click", () => {
-          setLanguage(document.body.dataset.language === "ja" ? "en" : "ja");
+        options.forEach((option) => {
+          if (option.tagName !== "BUTTON") return;
+          option.addEventListener("click", () => {
+            setLanguage(option.dataset.langOption);
+          });
         });
       })();
     </script>

@@ -18,28 +18,47 @@
 .language-switcher {
   display: flex;
   justify-content: flex-end;
+  gap: 0.65rem;
   margin-bottom: 1.5rem;
 }
 
-.language-toggle {
+.language-option {
   appearance: none;
   border: 1px solid rgba(255, 255, 255, 0.75);
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.16);
   color: #fff;
-  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-size: 0.95rem;
   font-weight: 600;
+  line-height: 1;
+  min-width: 7.5rem;
   padding: 0.65rem 1rem;
+  text-decoration: none;
   transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
 }
 
-.language-toggle:hover,
-.language-toggle:focus-visible {
+.language-option:not(.is-active) {
+  cursor: pointer;
+}
+
+.language-option.is-active {
+  background: rgba(255, 255, 255, 0.32);
+  cursor: default;
+}
+
+.language-option:not(.is-active):hover,
+.language-option:not(.is-active):focus-visible {
   background: #fff;
   color: #155799;
   outline: none;
   transform: translateY(-1px);
+}
+
+.language-option:disabled {
+  opacity: 1;
 }
 
 .profile-section + .profile-section {
@@ -68,7 +87,11 @@
     margin-bottom: 1rem;
   }
 
-  .language-toggle {
-    width: 100%;
+  .language-switcher {
+    flex-wrap: wrap;
+  }
+
+  .language-option {
+    flex: 1 1 8rem;
   }
 }
