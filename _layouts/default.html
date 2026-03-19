@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+      <div class="language-switcher">
+        <button
+          class="language-toggle"
+          type="button"
+          data-lang-toggle
+          aria-live="polite"
+        >
+          English
+        </button>
+      </div>
+
+      <h1 class="project-name">
+        <span data-lang-content="ja">{{ site.title_ja }}</span>
+        <span data-lang-content="en" hidden>{{ site.title_en }}</span>
+      </h1>
+      <h2 class="project-tagline">
+        <span data-lang-content="ja">{{ site.description_ja }}</span>
+        <span data-lang-content="en" hidden>{{ site.description_en }}</span>
+      </h2>
+    </section>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+
+    <script>
+      (() => {
+        const supported = new Set(["ja", "en"]);
+        const root = document.documentElement;
+        const toggle = document.querySelector("[data-lang-toggle]");
+        const contentBlocks = document.querySelectorAll("[data-lang-content]");
+        const storageKey = "profile-language";
+
+        const normalize = (value) => supported.has(value) ? value : "ja";
+
+        const updateButton = (lang) => {
+          if (!toggle) return;
+          toggle.textContent = lang === "ja" ? "English" : "日本語";
+          toggle.setAttribute(
+            "aria-label",
+            lang === "ja" ? "Switch to English" : "日本語に切り替え"
+          );
+        };
+
+        const applyLanguage = (lang) => {
+          const nextLang = normalize(lang);
+          root.lang = nextLang;
+          document.body.dataset.language = nextLang;
+          contentBlocks.forEach((block) => {
+            block.hidden = block.dataset.langContent !== nextLang;
+          });
+          updateButton(nextLang);
+        };
+
+        const detectInitialLanguage = () => {
+          const hashLang = window.location.hash.replace("#", "");
+          if (supported.has(hashLang)) return hashLang;
+
+          const stored = window.localStorage.getItem(storageKey);
+          if (supported.has(stored)) return stored;
+
+          const browserLang = navigator.language.slice(0, 2);
+          return supported.has(browserLang) ? browserLang : "ja";
+        };
+
+        const setLanguage = (lang) => {
+          const nextLang = normalize(lang);
+          applyLanguage(nextLang);
+          window.localStorage.setItem(storageKey, nextLang);
+          const baseUrl = window.location.pathname + window.location.search;
+          history.replaceState(null, "", nextLang === "ja" ? baseUrl : `${baseUrl}#en`);
+        };
+
+        applyLanguage("ja");
+        setLanguage(detectInitialLanguage());
+
+        toggle?.addEventListener("click", () => {
+          setLanguage(document.body.dataset.language === "ja" ? "en" : "ja");
+        });
+      })();
+    </script>
+  </body>
+</html>

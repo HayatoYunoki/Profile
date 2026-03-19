@@ -4,6 +4,8 @@ title: 柚木隼人 (Hayato Yunoki)
 show_downloads: false
 ---
 
+<div class="profile-section" data-lang-content="ja">
+
 ## 経歴
 <!-- 2026.04 ~ 現在 : 博士課程, 東京大学大学院 情報理工学系研究科 電子情報学専攻 長谷川研究室 -->
 
@@ -31,7 +33,6 @@ show_downloads: false
 - 2025年度 : 知能社会国際卓越大学院プログラム「自主企画活動費 B企画」 採用
 - 2024.04 ~ 現在 : 知能社会国際卓越大学院プログラム プログラム生
 
-
 ## 研究分野
 - 量子情報理論
 - 量子非平衡系
@@ -51,6 +52,66 @@ show_downloads: false
 2022.06 ~ 2023.01 : 株式会社IZA (現:株式会社ScaleData), インターンシップ, データ分析
 
 ## 連絡先
-- Email:  yunoki [at] biom.t.u-tokyo.ac.jp
-- X (旧Twitter): @hyunoki8810
-- ResearchGate: https://www.researchgate.net/profile/Hayato-Yunoki
+<ul class="profile-contact">
+  <li>Email: yunoki [at] biom.t.u-tokyo.ac.jp</li>
+  <li>X (旧Twitter): @hyunoki8810</li>
+  <li>ResearchGate: <a href="https://www.researchgate.net/profile/Hayato-Yunoki">https://www.researchgate.net/profile/Hayato-Yunoki</a></li>
+</ul>
+
+</div>
+
+<div class="profile-section" data-lang-content="en" hidden>
+
+## Education
+<!-- From April 2026: Doctoral program, Hasegawa Lab, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo -->
+
+2024.04 ~ 2026.03: Master of Information Science and Technology, Hasegawa Lab, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo
+
+2021.04 ~ 2024.03: Bachelor of Engineering, Department of Information and Communication Engineering, School of Engineering, The University of Tokyo (Undergraduate thesis advisor: Associate Professor Yoshihiko Hasegawa)
+
+2016.04 ~ 2021.03: Associate Degree in Engineering, Department of Electrical and Computer Engineering, National Institute of Technology, Akashi College (Graduation research advisor: Professor Kazunari Inoue)
+
+## Honors and Awards
+2026.03: Dean's Award, Graduate School of Information Science and Technology, The University of Tokyo (Research Achievement, Master's Program)
+
+## Publications
+
+### Preprint
+1. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+
+### Conference Presentations
+1. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
+2. (Oral, non-peer-reviewed, domestic) Hayato Yunoki, Yoshihiko Hasegawa, Quantum Fisher Information under Feedback Control, The 72nd JSAP Spring Meeting, Chiba, March 2025.
+3. (Oral, peer-reviewed, international) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
+4. (Oral, non-peer-reviewed, domestic) W. Iuchi\*, Y. Umeda\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Facial Image Reconstruction by Diffusion Models and Its Application to Video Compression](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), The 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, June 2023.
+
+## Grants and Fellowships
+- FY2025: Selected for the WINGS-ISGP Independent Research Support Program B
+- 2024.04 ~ Present: Student fellow, World-leading Innovative Graduate Study Program for Intelligent Society, The University of Tokyo
+
+## Research Interests
+- Quantum information theory
+- Quantum nonequilibrium systems
+- Quantum thermodynamics
+
+## Teaching Experience
+- FY2025 Teaching Assistant, Introductory Programming Exercises, Department of Electrical Engineering and Information Systems / Department of Information and Communication Engineering, School of Engineering, The University of Tokyo
+- FY2024 Teaching Assistant, First Semester Experiments I, Department of Electrical Engineering and Information Systems / Department of Information and Communication Engineering, School of Engineering, The University of Tokyo
+
+## Other Activities
+2025.05 ~ Present: Excellent Research Assistant, Creative Informatics Project, Graduate School of Information Science and Technology, The University of Tokyo
+
+2024.04 ~ Present: QunaSys internship, including development of libraries for quantum computing
+
+2023.01 ~ 2024.03: Softbrain Co., Ltd. internship, web backend engineering
+
+2022.06 ~ 2023.01: IZA Inc. (now ScaleData Inc.) internship, data analysis
+
+## Contact
+<ul class="profile-contact">
+  <li>Email: yunoki [at] biom.t.u-tokyo.ac.jp</li>
+  <li>X: @hyunoki8810</li>
+  <li>ResearchGate: <a href="https://www.researchgate.net/profile/Hayato-Yunoki">https://www.researchgate.net/profile/Hayato-Yunoki</a></li>
+</ul>
+
+</div>

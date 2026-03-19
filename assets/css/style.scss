@@ -10,3 +10,65 @@
 .btn {
   display: none !important;
 }
+
+[data-lang-content][hidden] {
+  display: none !important;
+}
+
+.language-switcher {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1.5rem;
+}
+
+.language-toggle {
+  appearance: none;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 0.65rem 1rem;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.language-toggle:hover,
+.language-toggle:focus-visible {
+  background: #fff;
+  color: #155799;
+  outline: none;
+  transform: translateY(-1px);
+}
+
+.profile-section + .profile-section {
+  margin-top: 2rem;
+}
+
+.profile-list {
+  padding-left: 1.25rem;
+}
+
+.profile-list li + li {
+  margin-top: 0.5rem;
+}
+
+.profile-contact {
+  padding-left: 0;
+  list-style: none;
+}
+
+.profile-contact li + li {
+  margin-top: 0.4rem;
+}
+
+@media screen and (max-width: 42em) {
+  .language-switcher {
+    margin-bottom: 1rem;
+  }
+
+  .language-toggle {
+    width: 100%;
+  }
+}
