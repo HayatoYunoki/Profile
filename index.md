@@ -7,7 +7,7 @@ show_downloads: false
 <div class="profile-section" data-lang-content="ja" markdown="1">
 
 ## 経歴
-<!-- 2026.04 ~ 現在 : 博士課程, 東京大学大学院 情報理工学系研究科 電子情報学専攻 長谷川研究室 -->
+2026.04 ~ 現在 : 博士課程, 東京大学大学院 情報理工学系研究科 電子情報学専攻 長谷川研究室
 
 2024.04 ~ 2026.03 : 修士 (情報理工学), 東京大学大学院 情報理工学系研究科 電子情報学専攻 長谷川研究室
 
@@ -16,7 +16,8 @@ show_downloads: false
 2016.04 ~ 2021.03 : 準学士 (工学), 明石高専 電気情報工学科 (卒研指導教員: 井上一成教授)
 
 ## 受賞
-2026.03 : 東京大学大学院情報理工学系研究科長賞（研究業績・修士課程）
+2026.03 : 東京大学大学院情報理工学系研究科 研究科長賞（修士課程）
+2026.03 : 東京大学大学院情報理工学系研究科 電子情報学専攻 専攻長賞 (修士課程)
 
 ## 研究業績
 
@@ -30,6 +31,7 @@ show_downloads: false
 4. (口頭, 査読なし, 国内) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
 
 ## 研究助成・外部資金
+- 2026.04 ~ 現在 : SPRING GX プロジェクト生
 - 2025年度 : 知能社会国際卓越大学院プログラム「自主企画活動費 B企画」 採用
 - 2024.04 ~ 現在 : 知能社会国際卓越大学院プログラム プログラム生
 
@@ -63,7 +65,7 @@ show_downloads: false
 <div class="profile-section" data-lang-content="en" hidden markdown="1">
 
 ## Education
-<!-- From April 2026: Doctoral program, Hasegawa Lab, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo -->
+2026.04 ~ Present: Doctoral Program, Hasegawa Lab, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo
 
 2024.04 ~ 2026.03: Master of Information Science and Technology, Hasegawa Lab, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo
 
@@ -72,7 +74,8 @@ show_downloads: false
 2016.04 ~ 2021.03: Associate Degree in Engineering, Department of Electrical and Computer Engineering, National Institute of Technology, Akashi College (Graduation research advisor: Professor Kazunari Inoue)
 
 ## Honors and Awards
-2026.03: Dean's Award, Graduate School of Information Science and Technology, The University of Tokyo (Research Achievement, Master's Program)
+2026.03: Dean's Award, Graduate School of Information Science and Technology, The University of Tokyo (Master's Program)
+2026.03: Department Chair's Award, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo (Master's Program)
 
 ## Publications
 
@@ -86,6 +89,7 @@ show_downloads: false
 4. (Oral, non-peer-reviewed, domestic) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
 
 ## Grants and Fellowships
+- 2026.04 ~ Present: SPRING GX Fellow
 - FY2025: Selected for the WINGS-IIW Independent Research Support Program B
 - 2024.04 ~ Present: Student fellow, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 
