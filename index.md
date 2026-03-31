@@ -16,8 +16,8 @@ show_downloads: false
 2016.04 ~ 2021.03 : 準学士 (工学), 明石高専 電気情報工学科 (卒研指導教員: 井上一成教授)
 
 ## 受賞
-2026.03 : 東京大学大学院情報理工学系研究科 研究科長賞（修士課程）
-2026.03 : 東京大学大学院情報理工学系研究科 電子情報学専攻 専攻長賞 (修士課程)
+- 2026.03 : 東京大学大学院情報理工学系研究科 研究科長賞（修士課程）
+- 2026.03 : 東京大学大学院情報理工学系研究科 電子情報学専攻 専攻長賞 (修士課程)
 
 ## 研究業績
 
@@ -74,8 +74,8 @@ show_downloads: false
 2016.04 ~ 2021.03: Associate Degree in Engineering, Department of Electrical and Computer Engineering, National Institute of Technology, Akashi College (Graduation research advisor: Professor Kazunari Inoue)
 
 ## Honors and Awards
-2026.03: Dean's Award, Graduate School of Information Science and Technology, The University of Tokyo (Master's Program)
-2026.03: Department Chair's Award, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo (Master's Program)
+- 2026.03: Dean's Award, Graduate School of Information Science and Technology, The University of Tokyo (Master's Program)
+- 2026.03: Department Chair's Award, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo (Master's Program)
 
 ## Publications
 
