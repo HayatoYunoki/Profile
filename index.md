@@ -22,7 +22,8 @@ show_downloads: false
 ## 研究業績
 
 ### プレプリント
-1. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+1. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+2. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### 学会
 1. (ポスター, 査読なし, 国際) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
@@ -80,7 +81,8 @@ show_downloads: false
 ## Publications
 
 ### Preprint
-1. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+1. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+2. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### Conference Presentations
 1. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
