@@ -86,11 +86,11 @@ show_downloads: false
 2. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### Conference Presentations
-1. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation and Speed Limits under Quantum Feedback Control, The Physical Society of Japan 2026 Spring Meeting, online, March 2026.
+1. (Oral, non-peer-reviewed, domestic) 柚木隼人, 長谷川禎彦, Kinetic Uncertainty Relation and Speed Limits under Quantum Feedback Control, 日本物理学会2026年春季大会, online, March 2026.
 2. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
-3. (Oral, non-peer-reviewed, domestic) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
+3. (Oral, non-peer-reviewed, domestic) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, Chiba, March 2025.
 4. (Oral, peer-reviewed, international) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
-5. (Oral, non-peer-reviewed, domestic) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
+5. (Oral, non-peer-reviewed, domestic) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, Kumamoto, June 2023.
 
 ## Grants and Fellowships
 - 2026.04 ~ Present: SPRING GX Fellow
