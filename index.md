@@ -26,14 +26,15 @@ show_downloads: false
 2. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### 学会
-1. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 量子フィードバック制御下におけるKinetic Uncertainty Relationと速度限界, 日本物理学会2026年春季大会, オンライン, 2026年3月.
-2. (ポスター, 査読なし, 国際) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
-3. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
-4. (口頭, 査読あり, 国際) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
-5. (口頭, 査読なし, 国内) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
+1. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 第54回量子情報技術研究会 (QIT54) , 三重, 2026年5月.
+2. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 量子フィードバック制御下におけるKinetic Uncertainty Relationと速度限界, 日本物理学会2026年春季大会, オンライン, 2026年3月.
+3. (ポスター, 査読なし, 国際) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
+4. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
+5. (口頭, 査読あり, 国際) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
+6. (口頭, 査読なし, 国内) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, 熊本, 2023年6月.
 
 ## 研究助成・外部資金
-- 2026.04 ~ 現在 : SPRING GX プロジェクト生
+- 2026.04 ~ 現在 : JST次世代研究者挑戦的研究プログラム（SPRING）東京大学「グリーントランスフォーメーション（GX）を先導する高度人材育成（SPRING GX）」プロジェクト生
 - 2025年度 : 知能社会国際卓越大学院プログラム「自主企画活動費 B企画」 採用
 - 2024.04 ~ 現在 : 知能社会国際卓越大学院プログラム プログラム生
 
@@ -43,6 +44,7 @@ show_downloads: false
 - 量子熱力学
 
 ## 教育歴
+- 2026年度 東京大学工学部電気電子工学科・電子情報工学科 前期実験 I1実験 TA
 - 2025年度 東京大学工学部電気電子工学科・電子情報工学科 プログラミング基礎演習 TA
 - 2024年度 東京大学工学部電気電子工学科・電子情報工学科 前期実験 I実験 TA
 
@@ -86,15 +88,16 @@ show_downloads: false
 2. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### Conference Presentations
-1. (Oral, non-peer-reviewed, domestic) 柚木隼人, 長谷川禎彦, Kinetic Uncertainty Relation and Speed Limits under Quantum Feedback Control, 日本物理学会2026年春季大会, online, March 2026.
-2. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
-3. (Oral, non-peer-reviewed, domestic) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, Chiba, March 2025.
-4. (Oral, peer-reviewed, international) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
-5. (Oral, non-peer-reviewed, domestic) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), [拡散モデルによる顔画像の再構成と動画圧縮への応用](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), 第37回人工知能学会全国大会, Kumamoto, June 2023.
+1. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, The 54th Quantum Information Technology Symposium (QIT54), Mie, May 2026.
+2. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation and Speed Limits under Quantum Feedback Control, The Physical Society of Japan 2026 Spring Meeting, online, March 2026.
+3. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
+4. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Quantum Fisher Information under Feedback Control, 72nd Spring Meeting of the Japan Society of Applied Physics, Chiba, March 2025.
+5. (Oral, peer-reviewed, international) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://ieeexplore.ieee.org/document/10315329), IEEE GCCE 2023, Nara, Oct 2023.
+6. (Oral, non-peer-reviewed, domestic) W. Iuchi\*, Y. Umeda\*, K. Harada\*, H. Yunoki\*, K. Muka, S. Yoshida, T. Yamasaki (*equal contribution), [Face Reenactment with Diffusion Model and Its Application to Video Compression](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3D5GS203/_article/-char/ja/), The 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, June 2023.
 
 ## Grants and Fellowships
-- 2026.04 ~ Present: SPRING GX Fellow
-- FY2025: Selected for the WINGS-IIW Independent Research Support Program B
+- 2026.04 ~ Present: Project fellow, JST SPRING Program, The University of Tokyo, "Fostering Advanced Human Resources to Lead Green Transformation (GX)" (SPRING GX)
+- FY2025: Selected for the "Independent Project Activity Fund B" of the International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 - 2024.04 ~ Present: Student fellow, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 
 ## Research Interests
@@ -103,8 +106,9 @@ show_downloads: false
 - Quantum thermodynamics
 
 ## Teaching Experience
-- FY2025 Teaching Assistant, Introductory Programming Exercises, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, School of Engineering, The University of Tokyo
-- FY2024 Teaching Assistant, First Semester Experiments I, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, School of Engineering, The University of Tokyo
+- FY2026 Teaching Assistant, First Semester Experiments I1, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Tokyo
+- FY2025 Teaching Assistant, Introductory Programming Exercises, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Tokyo
+- FY2024 Teaching Assistant, First Semester Experiments I, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Tokyo
 
 ## Other Activities
 2025.05 ~ Present: Excellent Research Assistant, Creative Evolution Project, Graduate School of Information Science and Technology, The University of Tokyo
