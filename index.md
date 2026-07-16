@@ -22,8 +22,10 @@ show_downloads: false
 ## 研究業績
 
 ### プレプリント
-1. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
-2. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+1. H. Yunoki and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
+2. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+3. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+
 
 ### 学会
 1. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 第54回量子情報技術研究会 (QIT54) , 三重, 2026年5月.
@@ -48,7 +50,8 @@ show_downloads: false
 - 2025年度 東京大学工学部電気電子工学科・電子情報工学科 プログラミング基礎演習 TA
 - 2024年度 東京大学工学部電気電子工学科・電子情報工学科 前期実験 I実験 TA
 
-## その他活動
+## その他
+2026.07 : 日本学生支援機構 第一種奨学金「特に優れた業績による返還免除」（半額免除, 修士課程）
 2025.05 ~ 現在 : 東京大学大学院情報理工学系研究科「情報理工学の創造的展開プロジェクト」, 卓越リサーチアシスタント
 
 2024.04 ~ 現在 : QunaSys, インターンシップ, 量子計算用ライブラリ開発等
@@ -84,8 +87,9 @@ show_downloads: false
 ## Publications
 
 ### Preprint
-1. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
-2. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+1. H. Yunoki and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
+2. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+3. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### Conference Presentations
 1. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, The 54th Quantum Information Technology Symposium (QIT54), Mie, May 2026.
@@ -110,7 +114,9 @@ show_downloads: false
 - FY2025 Teaching Assistant, Introductory Programming Exercises, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Tokyo
 - FY2024 Teaching Assistant, First Semester Experiments I, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Tokyo
 
-## Other Activities
+## Others
+2026.07: JASSO Type 1 Scholarship Repayment Exemption for Outstanding Achievement (Half Exemption, Master's Program)
+
 2025.05 ~ Present: Excellent Research Assistant, Creative Evolution Project, Graduate School of Information Science and Technology, The University of Tokyo
 
 2024.04 ~ Present: QunaSys internship, including development of libraries for quantum computing
