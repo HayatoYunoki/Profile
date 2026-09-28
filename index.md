@@ -22,21 +22,21 @@ show_downloads: false
 ## 研究業績
 
 ### プレプリント
-1. H. Yunoki and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
-2. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
-3. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+1. <u>H. Yunoki</u> and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
+2. <u>H. Yunoki</u> and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+3. <u>H. Yunoki</u> and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 
 ### 学会
-1. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 日本物理学会第81回年次大会, 東京, 2026年9月.
-2. (ポスター, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 量子サマースクール2026, 兵庫, 2026年9月.
-3. (ポスター, 査読なし, 国際) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, 26th Asian Quantum Information Science Conference, Korea, August 2026.
-4. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 第54回量子情報技術研究会 (QIT54) , 三重, 2026年5月.
-5. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, 量子フィードバック制御下におけるKinetic Uncertainty Relationと速度限界, 日本物理学会2026年春季大会, オンライン, 2026年3月.
-6. (ポスター, 査読なし, 国際) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
-7. (口頭, 査読なし, 国内) 柚木隼人, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
-8. (口頭, 査読あり, 国際) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), Face Reenactment with Diffusion Model and Its Application to Video Compression, IEEE GCCE 2023, Japan, Oct 2023.
-9. (口頭, 査読なし, 国内) 井内航\*, 梅田悠哉\*, 原田和亮\*, 柚木隼人\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), 拡散モデルによる顔画像の再構成と動画圧縮への応用, 第37回人工知能学会全国大会, 熊本, 2023年6月.
+1. (口頭, 査読なし, 国内) <u>柚木隼人</u>, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 日本物理学会第81回年次大会, 東京, 2026年9月.
+2. (ポスター, 査読なし, 国内) <u>柚木隼人</u>, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 量子サマースクール2026, 兵庫, 2026年9月.
+3. (ポスター, 査読なし, 国際) <u>H. Yunoki</u>, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, 26th Asian Quantum Information Science Conference, Korea, August 2026.
+4. (口頭, 査読なし, 国内) <u>柚木隼人</u>, 長谷川禎彦, 集団散逸のある量子多体系におけるKinetic Uncertainty Relation, 第54回量子情報技術研究会 (QIT54) , 三重, 2026年5月.
+5. (口頭, 査読なし, 国内) <u>柚木隼人</u>, 長谷川禎彦, 量子フィードバック制御下におけるKinetic Uncertainty Relationと速度限界, 日本物理学会2026年春季大会, オンライン, 2026年3月.
+6. (ポスター, 査読なし, 国際) <u>H. Yunoki</u>, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
+7. (口頭, 査読なし, 国内) <u>柚木隼人</u>, 長谷川禎彦, フィードバック制御下における量子フィッシャー情報量, 第72回応用物理学会春季学術講演会, 千葉, 2025年3月.
+8. (口頭, 査読あり, 国際) W. Iuchi\*, K. Harada\*, <u>H. Yunoki</u>\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), Face Reenactment with Diffusion Model and Its Application to Video Compression, IEEE GCCE 2023, Japan, Oct 2023.
+9. (口頭, 査読なし, 国内) 井内航\*, 梅田悠哉\*, 原田和亮\*, <u>柚木隼人</u>\*, 向井皇喜, 吉田舜, 山崎俊彦 (*equal contribution), 拡散モデルによる顔画像の再構成と動画圧縮への応用, 第37回人工知能学会全国大会, 熊本, 2023年6月.
 
 ## 研究助成・外部資金
 - 2026.04 ~ 現在 : JST次世代研究者挑戦的研究プログラム（SPRING）東京大学「グリーントランスフォーメーション（GX）を先導する高度人材育成（SPRING GX）」プロジェクト生
@@ -90,20 +90,20 @@ show_downloads: false
 ## Publications
 
 ### Preprint
-1. H. Yunoki and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
-2. H. Yunoki and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
-3. H. Yunoki and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
+1. <u>H. Yunoki</u> and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
+2. <u>H. Yunoki</u> and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+3. <u>H. Yunoki</u> and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### Conference Presentations
-1. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, The Physical Society of Japan 2026 Annual Meeting, Tokyo, September 2026.
-2. (Poster, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, QuSS Summer School 2026, Hyogo, September 2026.
-3. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, 26th Asian Quantum Information Science Conference, Korea, August 2026.
-4. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, The 54th Quantum Information Technology Symposium (QIT54), Mie, May 2026.
-5. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Kinetic Uncertainty Relation and Speed Limits under Quantum Feedback Control, The Physical Society of Japan 2026 Spring Meeting, online, March 2026.
-6. (Poster, non-peer-reviewed, international) H. Yunoki, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
-7. (Oral, non-peer-reviewed, domestic) H. Yunoki, Y. Hasegawa, Quantum Fisher Information under Feedback Control, 72nd Spring Meeting of the Japan Society of Applied Physics, Chiba, March 2025.
-8. (Oral, peer-reviewed, international) W. Iuchi\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), Face Reenactment with Diffusion Model and Its Application to Video Compression, 2023 IEEE 12th Global Conference on Consumer Electronics, Japan, October 2023.
-9. (Oral, non-peer-reviewed, domestic) W. Iuchi\*, Y. Umeda\*, K. Harada\*, H. Yunoki\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), Face Reenactment with Diffusion Model and Its Application to Video Compression, The 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, June 2023.
+1. (Oral, non-peer-reviewed, domestic) <u>H. Yunoki</u>, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, The Physical Society of Japan 2026 Annual Meeting, Tokyo, September 2026.
+2. (Poster, non-peer-reviewed, domestic) <u>H. Yunoki</u>, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, QuSS Summer School 2026, Hyogo, September 2026.
+3. (Poster, non-peer-reviewed, international) <u>H. Yunoki</u>, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, 26th Asian Quantum Information Science Conference, Korea, August 2026.
+4. (Oral, non-peer-reviewed, domestic) <u>H. Yunoki</u>, Y. Hasegawa, Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems, The 54th Quantum Information Technology Symposium (QIT54), Mie, May 2026.
+5. (Oral, non-peer-reviewed, domestic) <u>H. Yunoki</u>, Y. Hasegawa, Kinetic Uncertainty Relation and Speed Limits under Quantum Feedback Control, The Physical Society of Japan 2026 Spring Meeting, online, March 2026.
+6. (Poster, non-peer-reviewed, international) <u>H. Yunoki</u>, Y. Hasegawa, Performance Limits of Quantum Systems under Feedback Control, Quantum Thermodynamics 2025, Singapore, July 2025.
+7. (Oral, non-peer-reviewed, domestic) <u>H. Yunoki</u>, Y. Hasegawa, Quantum Fisher Information under Feedback Control, 72nd Spring Meeting of the Japan Society of Applied Physics, Chiba, March 2025.
+8. (Oral, peer-reviewed, international) W. Iuchi\*, K. Harada\*, <u>H. Yunoki</u>\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), Face Reenactment with Diffusion Model and Its Application to Video Compression, 2023 IEEE 12th Global Conference on Consumer Electronics, Japan, October 2023.
+9. (Oral, non-peer-reviewed, domestic) W. Iuchi\*, Y. Umeda\*, K. Harada\*, <u>H. Yunoki</u>\*, K. Mukai, S. Yoshida, T. Yamasaki (*equal contribution), Face Reenactment with Diffusion Model and Its Application to Video Compression, The 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, June 2023.
 
 ## Grants and Fellowships
 - 2026.04 ~ Present: Project fellow, JST SPRING Program, The University of Tokyo, "Fostering Advanced Human Resources to Lead Green Transformation (GX)" (SPRING GX)
