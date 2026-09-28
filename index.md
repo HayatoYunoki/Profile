@@ -44,9 +44,10 @@ show_downloads: false
 - 2024.04 ~ 現在 : 知能社会国際卓越大学院プログラム プログラム生
 
 ## 研究分野
-- 量子情報理論
-- 量子非平衡系
 - 量子熱力学
+- 非平衡統計力学
+- 量子情報
+
 
 ## 教育歴
 - 2026年度 東京大学工学部電気電子工学科・電子情報工学科 前期実験 I1実験 TA
@@ -55,6 +56,7 @@ show_downloads: false
 
 ## その他
 2026.07 : 日本学生支援機構 第一種奨学金「特に優れた業績による返還免除」（半額免除, 修士課程）
+
 2025.05 ~ 現在 : 東京大学大学院情報理工学系研究科「情報理工学の創造的展開プロジェクト」, 卓越リサーチアシスタント
 
 2024.04 ~ 現在 : QunaSys, インターンシップ, 量子計算用ライブラリ開発等
@@ -111,9 +113,9 @@ show_downloads: false
 - 2024.04 ~ Present: Student fellow, International Graduate Program of Innovation for Intelligent World, The University of Tokyo
 
 ## Research Interests
-- Quantum information theory
-- Quantum nonequilibrium systems
 - Quantum thermodynamics
+- Nonequilibrium statistical mechanics
+- Quantum information
 
 ## Teaching Experience
 - FY2026 Teaching Assistant, First Semester Experiments I1, Department of Information and Communication Engineering / Department of Electrical and Electronic Engineering, Faculty of Engineering, The University of Tokyo
