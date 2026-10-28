@@ -22,8 +22,8 @@ show_downloads: false
 ## 研究業績
 
 ### プレプリント
-1. <u>H. Yunoki</u> and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
-2. <u>H. Yunoki</u> and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+1. <u>H. Yunoki</u> and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2026)
+2. <u>H. Yunoki</u> and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2026)
 3. <u>H. Yunoki</u> and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 
@@ -92,8 +92,8 @@ show_downloads: false
 ## Publications
 
 ### Preprint
-1. <u>H. Yunoki</u> and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2025)
-2. <u>H. Yunoki</u> and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2025)
+1. <u>H. Yunoki</u> and Y. Hasegawa, [Heisenberg Scaling in Many-Body Kinetic Uncertainty Relation via Quantum Feedback](https://arxiv.org/abs/2607.12264), arXiv preprint arXiv:2607.12264 (2026)
+2. <u>H. Yunoki</u> and Y. Hasegawa, [Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems](https://arxiv.org/abs/2604.05747), arXiv preprint arXiv:2604.05747 (2026)
 3. <u>H. Yunoki</u> and Y. Hasegawa, [Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control](https://arxiv.org/abs/2502.09081), arXiv preprint arXiv:2502.09081 (2025)
 
 ### Conference Presentations
